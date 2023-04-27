@@ -8,3 +8,9 @@ In this notebook, we will discover and explore data from the stock market, parti
 #TASK:2 Titanic Classification 
 
 I will go through the whole process of creating a machine learning model on the famous Titanic dataset, which is used by many people all over the world. It provides information on the fate of passengers on the Titanic, summarized according to economic status, age, gender and more.
+
+
+
+TASK:3 Number Recoginition:
+
+In this notebook, we are going to use the MNIST dataset for the implementation of a handwritten digit recognition app. To implement this we will use a special type of deep neural network called Convolutional Neural Networks. In the end, we will also build a Graphical user interface(GUI) where you can directly draw the digit and recognize it straight away.
